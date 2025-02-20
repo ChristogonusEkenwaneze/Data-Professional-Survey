@@ -4,7 +4,7 @@
 - [Objectives](#objectives)
 - [Tool](#tool)
 - [Processes](#processes)
-- [Findingss](#findings)
+- [Findings](#findings)
 - [Recommendations](#recommendations)
 
 ## Project Overview
@@ -27,15 +27,16 @@ Data Source
 - Data Cleaning and Preparation
 - Analysis
 - Visualisation
-### Power querry view showing applied steps for cleaning of data.
+  
+### Power query view showing applied steps for cleaning of data.
 
 ![Data Survey Power Query](https://github.com/user-attachments/assets/27cef615-9341-4911-8bec-c10b12b1d008)
 
-## Dashboard 
+## Data Professional Survey Dashboard 
 
 ![Data Survey Dashboard](https://github.com/user-attachments/assets/345b1297-b043-4cc8-bf29-189458f327d7)
 
-- Interactive dashboard showing detaiols about participnats from USA only.
+- Interactive dashboard showing details about participants from USA only.
 
 ![Data survey for USA](https://github.com/user-attachments/assets/00d8c1db-7336-4b55-8766-f7114cf95758)
 
@@ -57,5 +58,8 @@ Data Source
 - Employers of data professional can introduce flexible work arrangements, mental health support, and workload management strategies to improve overall job satisfaction..
   
 - Companies and employers of data professionals should review compensation structures, offer performance-based incentives, and provide clearer career progression pathways to enhance employee satisfaction.
+
+## Explore the report here
+
 
 
