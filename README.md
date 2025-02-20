@@ -19,17 +19,26 @@ The Data Professional Survey Reports was created to analyze trends among data pr
 ## Tool
 
 - Excel 
+Data Source   
+[Power BI - Data Professional Survey.xlsx](https://github.com/user-attachments/files/18885479/Power.BI.-.Data.Professional.Survey.xlsx)
 
 ## Processes
 
 - Data Cleaning and Preparation
 - Analysis
 - Visualisation
+### Power querry view showing applied steps for cleaning of data.
+
+![Data Survey Power Query](https://github.com/user-attachments/assets/27cef615-9341-4911-8bec-c10b12b1d008)
 
 ## Dashboard 
-![Pivot table](https://github.com/user-attachments/assets/9c3ace19-9a27-4ac8-b854-12d8595b9d79)
 
-![New](https://github.com/user-attachments/assets/6ac0eafb-4f5c-41f5-9c4c-88b31be7004a)
+![Data Survey Dashboard](https://github.com/user-attachments/assets/345b1297-b043-4cc8-bf29-189458f327d7)
+
+- Interactive dashboard showing detaiols about participnats from USA only.
+
+![Data survey for USA](https://github.com/user-attachments/assets/00d8c1db-7336-4b55-8766-f7114cf95758)
+
 
 ## Findings
 
