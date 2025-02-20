@@ -1,4 +1,4 @@
-# Data Professional Survey Analysis
+# Data Professional Survey Report
 
 - [Project Overview](#project_overview)
 - [Objectives](#objectives)
@@ -59,7 +59,6 @@ Data Source
   
 - Companies and employers of data professionals should review compensation structures, offer performance-based incentives, and provide clearer career progression pathways to enhance employee satisfaction.
 
-## Explore the report here
-
+## Explore the report here 
 
 
